@@ -1,2 +1,3 @@
-# general-purpose genetic algorithm (user-specified fitness function)
-# coevolutionary algorithm (no fitness function)
+# Contents
+## General-purpose genetic algorithm (user-specified fitness function)
+## Coevolutionary algorithm (no fitness function)
